@@ -16,7 +16,7 @@ This project extracts structured entities and relationships from unstructured te
 the entire pipeline runs locally for maximum data privacy and api cost-free.
 <p align = "center">
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/75e272b1-8e0a-444f-873c-b51f71578323" />
-</p>p>
+</p>
 
 
 ## License
