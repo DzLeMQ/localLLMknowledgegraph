@@ -10,6 +10,7 @@
 4. Start chatting to test the model via prompt
 
 **Knowledge Graph Construction**
+
 This project extracts structured entities and relationships from unstructured text to automatically build a Knowledge Graph. By leveraging Langchain and local Large Language Models (LLMs), 
 the entire pipeline runs locally for maximum data privacy and api cost-free.
 
