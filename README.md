@@ -1,3 +1,4 @@
+[![License: MIT](https://shields.io)](https://opensource.org)
 **Prerequisites**
 1. Python 3.14 or higher
 2. VS Code with Jupyter Notebook extension (recommended)
@@ -18,3 +19,8 @@ Insights Visualisation
 Summary image
 
 Categories breakdown image
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
