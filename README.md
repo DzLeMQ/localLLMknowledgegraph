@@ -1,4 +1,3 @@
-[![License: MIT](https://shields.io)](https://opensource.org)
 
 **Prerequisites**
 1. Python 3.14 or higher
