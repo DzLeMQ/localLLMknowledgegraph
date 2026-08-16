@@ -18,7 +18,7 @@ the entire pipeline runs locally for maximum data privacy and api cost-free.
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/75e272b1-8e0a-444f-873c-b51f71578323" />
 </p>
 
-<a href="https://dzlemq.github.io//localLLMknowledgegraph/last_wish_knowledge_graph">Explore The Last Wish Knowledge Graph</a>
+<a href="https://dzlemq.github.io//localLLMknowledgegraph/last_wish_knowledge_graph">Click Here to Explore The Last Wish Knowledge Graph</a>
 
 **Zoom In & Out to Control the View:** Use your mouse scroll wheel (or pinch/spread two fingers on a laptop trackpad) while hovering over the graph to zoom in and out.
 
