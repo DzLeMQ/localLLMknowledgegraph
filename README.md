@@ -15,7 +15,7 @@
 This project extracts structured entities and relationships from unstructured text to automatically build a Knowledge Graph. By leveraging Langchain and local Large Language Models (LLMs), 
 the entire pipeline runs locally for maximum data privacy and api cost-free.
 <p align = "center">
-<img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/75e272b1-8e0a-444f-873c-b51f71578323" />
+<img width="571" height="452" alt="image" src="https://github.com/user-attachments/assets/79e3b187-5a68-420d-993d-a2ffe14ee69f" />
 </p>
 
 <a href="https://dzlemq.github.io//localLLMknowledgegraph/last_wish_knowledge_graph">Click Here to Explore The Last Wish Knowledge Graph</a>
