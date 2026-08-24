@@ -1,3 +1,6 @@
+**Knowledge Graph Construction**
+This project extracts structured entities and relationships from unstructured text to automatically build a Knowledge Graph. By leveraging Langchain and local Large Language Models (LLMs), 
+the entire pipeline runs locally for maximum data privacy and zero cost-free.
 
 **Prerequisites**
 1. Python 3.14 or higher
@@ -10,10 +13,7 @@
 3. Run a model using ollama coammnd ollama run modelname
 4. Start chatting to test the model via prompt
 
-**Knowledge Graph Construction**
-
-This project extracts structured entities and relationships from unstructured text to automatically build a Knowledge Graph. By leveraging Langchain and local Large Language Models (LLMs), 
-the entire pipeline runs locally for maximum data privacy and zero cost-free.
+**Processes Pipeline**
 <p align = "center">
 <img width="571" height="452" alt="image" src="https://github.com/user-attachments/assets/79e3b187-5a68-420d-993d-a2ffe14ee69f" />
 </p>
