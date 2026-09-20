@@ -16,7 +16,8 @@ the entire pipeline runs locally for maximum data privacy and zero cost-free.
 
 **Processes Pipeline**
 <p align = "center">
-   <img width="264" height="216" alt="image" src="https://github.com/user-attachments/assets/9af23f52-b7f0-4385-bfc4-44bbd2604e87" />
+   <img width="529" height="419" alt="image" src="https://github.com/user-attachments/assets/0867f948-3d7d-4c7e-b4ce-81f8d236b7c7" />
+
 </p>
 
 <a href="https://dzlemq.github.io//localLLMknowledgegraph/last_wish_knowledge_graph">Click Here to Explore The Last Wish Knowledge Graph</a>
