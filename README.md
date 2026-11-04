@@ -2,11 +2,15 @@
 
 An automated pipeline that extracts structured entities and complex relationships from unstructured text files to dynamically build an interactive Knowledge Graph. It leverages **LangChain** and local Large Language Models (**LLMs** via Ollama) to run completely offline.
 
+<a href="https://dzlemq.github.io//localLLMknowledgegraph/last_wish_knowledge_graph">Click Here to Explore The Last Wish Knowledge Graph</a>
+
+**Zoom In & Out to Control the View:** Use your mouse scroll wheel (or pinch/spread two fingers on a laptop trackpad) while hovering over the graph to zoom in and out.
+
 ## ✨ Features
 * **100% Local Execution:** Processes sensitive documents safely on your own hardware.
 * **Automated Extraction:** Turns raw text files into nodes and relational edges.
 * **Interactive Visualizations:** Generates a standalone HTML dynamic network graph.
-* **Witcher Universe Demo:** Includes an example parsing text from *The Last Wish*.
+* **Witcher Universe Demo:** Includes an example parsing text from *The Last Wish Witch*.
 
 ## 🛠️ Core Technology Stack
 
@@ -46,12 +50,6 @@ pip install langchain langchain-community networkx pyvis ollama ipykernel
 2. Select the `knowledge_graph.ipynb` notebook.
 3. Ensure your Jupyter kernel points to your active Python environment.
 4. Execute the cells sequentially to parse `the_last_wish_witch.txt` and generate your interactive graph webpage.
-
-
-
-<a href="https://dzlemq.github.io//localLLMknowledgegraph/last_wish_knowledge_graph">Click Here to Explore The Last Wish Knowledge Graph</a>
-
-**Zoom In & Out to Control the View:** Use your mouse scroll wheel (or pinch/spread two fingers on a laptop trackpad) while hovering over the graph to zoom in and out.
 
 ## License
 
