@@ -14,12 +14,12 @@ An automated pipeline that extracts structured entities and complex relationship
 
 ## 🛠️ Core Technology Stack
 
-| **Orchestration** | `LangChain` & `langchain-community` | Manages prompts, chunks text, and structures LLM outputs. |
-| **Inference Engine**| `Ollama` | Runs the Large Language Model completely offline. |
-| **Data Processing** | `Python 3.14+` | Coordinates text handling and execution pipelines. |
-| **Graph Modeling**  | `NetworkX` | Programmatically builds, updates, and manages nodes and edges. |
-| **Visualization**   | `Pyvis` | Renders the final graph into an interactive, zoomable HTML page. |
-| **Environment**     | `Jupyter Notebooks` (`.ipynb`) | Provides an interactive workspace for step-by-step execution. |
+* **Orchestration** | `LangChain` & `langchain-community` | Manages prompts, chunks text, and structures LLM outputs. |
+* **Inference Engine**| `Ollama` | Runs the Large Language Model completely offline. |
+* **Data Processing** | `Python 3.14+` | Coordinates text handling and execution pipelines. |
+* **Graph Modeling**  | `NetworkX` | Programmatically builds, updates, and manages nodes and edges. |
+* **Visualization**   | `Pyvis` | Renders the final graph into an interactive, zoomable HTML page. |
+* **Environment**     | `Jupyter Notebooks` (`.ipynb`) | Provides an interactive workspace for step-by-step execution. |
 
 ## 📋 Prerequisites
 * **Python:** v3.14 or higher
