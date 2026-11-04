@@ -48,27 +48,6 @@ pip install langchain langchain-community networkx pyvis ollama ipykernel
 4. Execute the cells sequentially to parse `the_last_wish_witch.txt` and generate your interactive graph webpage.
 
 
-**Knowledge Graph Construction**
-
-This project extracts structured entities and relationships from unstructured text to automatically build a Knowledge Graph. By leveraging Langchain and local Large Language Models (LLMs), 
-the entire pipeline runs locally for maximum data privacy and zero cost-free.
-
-**Prerequisites**
-1. Python 3.14 or higher
-2. VS Code with Jupyter Notebook extension (recommended)
-3. 12GB+ VRAM GPU on device for running local LLMs
-   
-**Install local LLM**
-1. Install ollama from ollama.ai
-2. Pull a model using ollama command ollama pull modelname
-3. Run a model using ollama coammnd ollama run modelname
-4. Start chatting to test the model via prompt
-
-**Processes Pipeline**
-<p align = "center">
-   <img width="529" height="419" alt="image" src="https://github.com/user-attachments/assets/0867f948-3d7d-4c7e-b4ce-81f8d236b7c7" />
-
-</p>
 
 <a href="https://dzlemq.github.io//localLLMknowledgegraph/last_wish_knowledge_graph">Click Here to Explore The Last Wish Knowledge Graph</a>
 
