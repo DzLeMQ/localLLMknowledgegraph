@@ -14,7 +14,7 @@ An automated pipeline that extracts structured entities and complex relationship
 
 ## 🛠️ Core Technology Stack
 
-* **Orchestration** | `LangChain` & `langchain-community` | Manages prompts, chunks text, and structures LLM outputs. |
+* **Orchestration** | `LangChain` & `langchain-community` | Manages prompts, chunks text, and structures LLM outputs.|
 * **Inference Engine**| `Ollama` | Runs the Large Language Model completely offline. |
 * **Data Processing** | `Python 3.14+` | Coordinates text handling and execution pipelines. |
 * **Graph Modeling**  | `NetworkX` | Programmatically builds, updates, and manages nodes and edges. |
